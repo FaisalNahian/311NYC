@@ -1,0 +1,86 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="_311NYC.ViewModels.AboutPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:controls="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="768"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait"  Orientation="Portrait"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <!--Pivot Control-->
+        <controls:Pivot Title="311 NYC">
+            <!--Pivot item one-->
+            <controls:PivotItem Header="about 311">
+                <Grid x:Name="About311" Grid.Row="1" Margin="12,0,12,0">
+                    <TextBlock Height="500" TextWrapping="Wrap" Name="textBlock1" Text="TextBlock" Width="395" Style="{StaticResource PhoneTextNormalStyle}" Margin="2,-2,-1,0">
+                         <Run>311 is New York City's main source of government information and non-emergency services. Whether you're a resident, business owner, or visitor, help is just a click, text, or call away.
+                        Connect with NYC 311</Run><LineBreak/><LineBreak/>
+                           
+                          <Run>   Visit</Run><LineBreak/>
+                          <Run>   Text at 311NYC (311692).</Run><LineBreak/>
+                          <Run>   Call at 311 or (212) NEW-YORK (212-639-9675) from outside New York City.</Run><LineBreak/>
+                          <Run>   Skype at NYC311.</Run><LineBreak/>
+                          <Run>   Contact using a TTY or Text Telephone at (212) 504-4115.</Run><LineBreak/>
+                    </TextBlock>
+                    <HyperlinkButton Content="311 Online" Height="30" Name="hyperlinkButton1" Width="200" NavigateUri="http://www.nyc.gov/apps/311/" Foreground="{StaticResource PhoneAccentBrush}" Margin="13,181,183,287" />
+
+                    <TextBlock TextWrapping="Wrap" Margin="1,424,1,13" Height="62" Width="394" Foreground="{StaticResource PhoneAccentBrush}">
+                <TextBlock.Text>
+                    This app is currently experimental and we are looking forward to your feedback.
+                </TextBlock.Text>
+                    </TextBlock>
+
+                </Grid>
+            </controls:PivotItem>
+
+            <!--Pivot item two-->
+            <controls:PivotItem Header="the app">
+                <Grid>
+                    <TextBlock
+                           TextWrapping="Wrap"
+                           Style="{StaticResource PhoneTextNormalStyle}">
+                           <Run>
+                            NOTE: MADE FOR NYC BIG APPS 3.0. THIS IS AN UNOFFICIAL APP. DATA PROVIDED BY
+                            NYC OPEN DATA. ALL OTHER CONTENTS ARE TAKEN FORM NYC.GOV/311 WEBSITE. ALL Images ARE COPYRIGHTED BY THEIR RESPECTED OWNERS.  
+                              </Run>
+                         <LineBreak/>
+                           <LineBreak/>
+                                                   
+                           <Run>Developed by Faisal Nahian (@FaisalNahian)</Run><LineBreak/>
+                           <Run>Web Designer and Developer</Run> <LineBreak/>
+                           <Run>http://www.heyfaisal.com</Run><LineBreak/><LineBreak/>
+                           <Run>Thanks to Michael Posso (@micposso)</Run><LineBreak/>
+                           <Run>Interactive Designer / Email Marketing Specialist</Run><LineBreak/>
+                           <Run>http://www.michaelposso.com</Run>
+                    <LineBreak/>
+
+                    </TextBlock>
+                    <Button Content="Email" Height="72" HorizontalAlignment="Right" Margin="0,504,-11,0" Name="button1" VerticalAlignment="Top" Width="132" />
+                    <TextBlock Height="30" HorizontalAlignment="Left" Margin="12,529,0,0" Name="EmailTextBlock" Text="Questions, Comments, or Suggestions?" VerticalAlignment="Top" Width="331" Style="{StaticResource PhoneTextSmallStyle}" />
+                </Grid>
+            </controls:PivotItem>
+        </controls:Pivot>
+    </Grid>
+
+    <!--Sample code showing usage of ApplicationBar-->
+    <!--<phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+            <shell:ApplicationBarIconButton x:Name="appbar_button1" IconUri="/Images/appbar_button1.png" Text="Button 1"/>
+            <shell:ApplicationBarIconButton x:Name="appbar_button2" IconUri="/Images/appbar_button2.png" Text="Button 2"/>
+            <shell:ApplicationBar.MenuItems>
+                <shell:ApplicationBarMenuItem x:Name="menuItem1" Text="MenuItem 1"/>
+                <shell:ApplicationBarMenuItem x:Name="menuItem2" Text="MenuItem 2"/>
+            </shell:ApplicationBar.MenuItems>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>-->
+    
+</phone:PhoneApplicationPage>

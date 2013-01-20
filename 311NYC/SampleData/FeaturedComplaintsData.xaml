@@ -1,0 +1,23 @@
+﻿<local:FeaturedComplaints 
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"       
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="clr-namespace:_311NYC" 
+    SampleProperty="Sample Text Property Value">
+    
+    <local:FeaturedComplaints.Items>
+        <!--<local:FeaturedItemViewModel ComplaintType="design one" ComplaintSummary="Maecenas praesent accumsan bibendum" ComplaintDescription="Maecenas praesent accumsan bibendum dictumst eleifend facilisi faucibus habitant inceptos interdum lobortis nascetur"/>
+        <local:FeaturedItemViewModel ComplaintType="design two" ComplaintSummary="Dictumst eleifend facilisi faucibus" ComplaintDescription="Pharetra placerat pulvinar sagittis senectus sociosqu suscipit torquent ultrices vehicula volutpat maecenas praesent"/>
+        <local:FeaturedItemViewModel ComplaintType="design three" ComplaintSummary="Habitant inceptos interdum lobortis" ComplaintDescription="Accumsan bibendum dictumst eleifend facilisi faucibus habitant inceptos interdum lobortis nascetur pharetra placerat"/>
+        <local:FeaturedItemViewModel ComplaintType="design four" ComplaintSummary="Nascetur pharetra placerat pulvinar" ComplaintDescription="Pulvinar sagittis senectus sociosqu suscipit torquent ultrices vehicula volutpat maecenas praesent accumsan bibendum"/>
+        <local:FeaturedItemViewModel ComplaintType="design five" ComplaintSummary="Sagittis senectus sociosqu suscipit" ComplaintDescription="Dictumst eleifend facilisi faucibus habitant inceptos interdum lobortis nascetur pharetra placerat pulvinar sagittis"/>
+        <local:FeaturedItemViewModel ComplaintType="design six" ComplaintSummary="Torquent ultrices vehicula volutpat" ComplaintDescription="Senectus sociosqu suscipit torquent ultrices vehicula volutpat maecenas praesent accumsan bibendum dictumst eleifend"/>-->
+
+        <local:FeaturedItemViewModel ComplaintType="Taxi Complaint" ComplaintSummary="Report taxi complaints and lost property" ComplaintDescription="/FeaturedComplaints/FeaturedComplaints_Files/PushpinCar.png" />
+        <local:FeaturedItemViewModel ComplaintType="Pothole" ComplaintSummary="Report an street pothole" ComplaintDescription="/FeaturedComplaints/FeaturedComplaints_Files/appbar.contrast.png"  />
+        <local:FeaturedItemViewModel ComplaintType="Traffic Sign" ComplaintSummary="Report damaged and missing street sign" ComplaintDescription="/FeaturedComplaints/FeaturedComplaints_Files/PushpinBicycle.png" />
+        <local:FeaturedItemViewModel ComplaintType="Street Light" ComplaintSummary="Report a problem with stree light" ComplaintDescription="/FeaturedComplaints/FeaturedComplaints_Files/appbar.city.png" />
+        <local:FeaturedItemViewModel ComplaintType="Open Fire Hydrant" ComplaintSummary="Report an open fire hydrant" ComplaintDescription="/FeaturedComplaints/FeaturedComplaints_Files/appbar.cone.png" />
+        <local:FeaturedItemViewModel ComplaintType="More" ComplaintSummary="All other complaint types from A-Z" ComplaintDescription="/FeaturedComplaints/FeaturedComplaints_Files/appbar.next.rest.png"  />
+    </local:FeaturedComplaints.Items>
+    
+</local:FeaturedComplaints>

@@ -1,0 +1,248 @@
+C:\Users\Faisal Nahian\Desktop\311NYC - 1-24 12pm\311NYC\Bin\Debug\ApplicationIcon.png
+C:\Users\Faisal Nahian\Desktop\311NYC - 1-24 12pm\311NYC\Bin\Debug\Background.png
+C:\Users\Faisal Nahian\Desktop\311NYC - 1-24 12pm\311NYC\Bin\Debug\Resources\WP7PiChartsFromDBSOUP.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 1-24 12pm\311NYC\Bin\Debug\311NYC.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 1-24 12pm\311NYC\Bin\Debug\311NYC.pdb
+C:\Users\Faisal Nahian\Desktop\311NYC - 1-24 12pm\311NYC\Bin\Debug\AppManifest.xaml
+C:\Users\Faisal Nahian\Desktop\311NYC - 1-24 12pm\311NYC\Bin\Debug\_311NYC.xap
+C:\Users\Faisal Nahian\Desktop\311NYC - 1-24 12pm\311NYC\Bin\Debug\AmCharts.Windows.QuickCharts.WP.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 1-24 12pm\311NYC\Bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 1-24 12pm\311NYC\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 1-24 12pm\311NYC\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 1-24 12pm\311NYC\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 1-24 12pm\311NYC\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 1-24 12pm\311NYC\Bin\Debug\System.ServiceModel.Syndication.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 1-24 12pm\311NYC\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 1-24 12pm\311NYC\Bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\Faisal Nahian\Desktop\311NYC - 1-24 12pm\311NYC\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Faisal Nahian\Desktop\311NYC - 1-24 12pm\311NYC\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Faisal Nahian\Desktop\311NYC - 1-24 12pm\311NYC\Bin\Debug\Microsoft.Phone.Controls.Maps.xml
+C:\Users\Faisal Nahian\Desktop\311NYC - 1-24 12pm\311NYC\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\Faisal Nahian\Desktop\311NYC - 1-24 12pm\311NYC\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\Faisal Nahian\Desktop\311NYC - 1-24 12pm\311NYC\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Faisal Nahian\Desktop\311NYC - 1-24 12pm\311NYC\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 1-24 12pm\311NYC\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 1-24 12pm\311NYC\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 1-24 12pm\311NYC\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 1-24 12pm\311NYC\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 1-24 12pm\311NYC\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 1-24 12pm\311NYC\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 1-24 12pm\311NYC\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 1-24 12pm\311NYC\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 1-24 12pm\311NYC\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 1-24 12pm\311NYC\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 1-24 12pm\311NYC\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 1-24 12pm\311NYC\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 1-24 12pm\311NYC\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 1-24 12pm\311NYC\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 1-24 12pm\311NYC\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 1-24 12pm\311NYC\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 1-24 12pm\311NYC\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 1-24 12pm\311NYC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Faisal Nahian\Desktop\311NYC - 1-24 12pm\311NYC\obj\Debug\App.g.i.cs
+C:\Users\Faisal Nahian\Desktop\311NYC - 1-24 12pm\311NYC\obj\Debug\AddPicturePage.g.i.cs
+C:\Users\Faisal Nahian\Desktop\311NYC - 1-24 12pm\311NYC\obj\Debug\ComplaintNotePage.g.i.cs
+C:\Users\Faisal Nahian\Desktop\311NYC - 1-24 12pm\311NYC\obj\Debug\ComplaintSummaryPage.g.i.cs
+C:\Users\Faisal Nahian\Desktop\311NYC - 1-24 12pm\311NYC\obj\Debug\DetailsPage.g.i.cs
+C:\Users\Faisal Nahian\Desktop\311NYC - 1-24 12pm\311NYC\obj\Debug\LocatePage.g.i.cs
+C:\Users\Faisal Nahian\Desktop\311NYC - 1-24 12pm\311NYC\obj\Debug\MainPage.g.i.cs
+C:\Users\Faisal Nahian\Desktop\311NYC - 1-24 12pm\311NYC\obj\Debug\StatisticsPage.g.i.cs
+C:\Users\Faisal Nahian\Desktop\311NYC - 1-24 12pm\311NYC\obj\Debug\ViewModels\AboutPage.g.i.cs
+C:\Users\Faisal Nahian\Desktop\311NYC - 1-24 12pm\311NYC\obj\Debug\WherePage.g.i.cs
+C:\Users\Faisal Nahian\Desktop\311NYC - 1-24 12pm\311NYC\obj\Debug\311NYC.g.resources
+C:\Users\Faisal Nahian\Desktop\311NYC - 1-24 12pm\311NYC\obj\Debug\311NYC.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 1-24 12pm\311NYC\obj\Debug\311NYC.pdb
+C:\Users\Faisal Nahian\Desktop\311NYC - 1-24 12pm\311NYC\obj\Debug\XapCacheFile.xml
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 122am\311NYC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 122am\311NYC\obj\Debug\App.g.i.cs
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 122am\311NYC\obj\Debug\AddPicturePage.g.i.cs
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 122am\311NYC\obj\Debug\ComplaintNotePage.g.i.cs
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 122am\311NYC\obj\Debug\ComplaintSummaryPage.g.i.cs
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 122am\311NYC\obj\Debug\Controls\LoadingBar.g.i.cs
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 122am\311NYC\obj\Debug\DetailsPage.g.i.cs
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 122am\311NYC\obj\Debug\MainPage.g.i.cs
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 122am\311NYC\obj\Debug\StatisticsPage.g.i.cs
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 122am\311NYC\obj\Debug\ViewModels\AboutPage.g.i.cs
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 122am\311NYC\obj\Debug\View\LocatePage.g.i.cs
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 122am\311NYC\obj\Debug\View\SettingsPage.g.i.cs
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 122am\311NYC\obj\Debug\WherePage.g.i.cs
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 122am\311NYC\obj\Debug\311NYC.g.resources
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 122am\311NYC\obj\Debug\311NYC.pdb
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 122am\311NYC\Bin\Debug\ApplicationIcon.png
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 122am\311NYC\Bin\Debug\Background.png
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 122am\311NYC\Bin\Debug\Resources\WP7PiChartsFromDBSOUP.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 122am\311NYC\Bin\Debug\311NYC.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 122am\311NYC\Bin\Debug\311NYC.pdb
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 122am\311NYC\Bin\Debug\AmCharts.Windows.QuickCharts.WP.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 122am\311NYC\Bin\Debug\GalaSoft.MvvmLight.Extras.WP71.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 122am\311NYC\Bin\Debug\GalaSoft.MvvmLight.WP71.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 122am\311NYC\Bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 122am\311NYC\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 122am\311NYC\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 122am\311NYC\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 122am\311NYC\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 122am\311NYC\Bin\Debug\System.ServiceModel.Syndication.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 122am\311NYC\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 122am\311NYC\Bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 122am\311NYC\Bin\Debug\GalaSoft.MvvmLight.Extras.WP71.xml
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 122am\311NYC\Bin\Debug\GalaSoft.MvvmLight.WP71.xml
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 122am\311NYC\Bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 122am\311NYC\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 122am\311NYC\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 122am\311NYC\Bin\Debug\Microsoft.Phone.Controls.Maps.xml
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 122am\311NYC\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 122am\311NYC\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 122am\311NYC\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 122am\311NYC\Bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 122am\311NYC\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 122am\311NYC\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 122am\311NYC\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 122am\311NYC\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 122am\311NYC\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 122am\311NYC\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 122am\311NYC\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 122am\311NYC\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 122am\311NYC\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 122am\311NYC\obj\Debug\311NYC.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 122am\311NYC\Bin\Debug\AppManifest.xaml
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 122am\311NYC\Bin\Debug\_311NYC.xap
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 122am\311NYC\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 122am\311NYC\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 122am\311NYC\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 122am\311NYC\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 122am\311NYC\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 122am\311NYC\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 122am\311NYC\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 122am\311NYC\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 122am\311NYC\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 122am\311NYC\obj\Debug\XapCacheFile.xml
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 122am\311NYC\obj\Debug\AboutPage.g.i.cs
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 422am - adding login page\311NYC\Bin\Debug\ApplicationIcon.png
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 422am - adding login page\311NYC\Bin\Debug\Background.png
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 422am - adding login page\311NYC\Bin\Debug\Resources\WP7PiChartsFromDBSOUP.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 422am - adding login page\311NYC\Bin\Debug\311NYC.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 422am - adding login page\311NYC\Bin\Debug\311NYC.pdb
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 422am - adding login page\311NYC\Bin\Debug\AppManifest.xaml
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 422am - adding login page\311NYC\Bin\Debug\_311NYC.xap
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 422am - adding login page\311NYC\Bin\Debug\AmCharts.Windows.QuickCharts.WP.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 422am - adding login page\311NYC\Bin\Debug\GalaSoft.MvvmLight.Extras.WP71.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 422am - adding login page\311NYC\Bin\Debug\GalaSoft.MvvmLight.WP71.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 422am - adding login page\311NYC\Bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 422am - adding login page\311NYC\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 422am - adding login page\311NYC\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 422am - adding login page\311NYC\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 422am - adding login page\311NYC\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 422am - adding login page\311NYC\Bin\Debug\Phone.Identity.AccessControl.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 422am - adding login page\311NYC\Bin\Debug\System.ServiceModel.Syndication.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 422am - adding login page\311NYC\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 422am - adding login page\311NYC\Bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 422am - adding login page\311NYC\Bin\Debug\GalaSoft.MvvmLight.Extras.WP71.xml
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 422am - adding login page\311NYC\Bin\Debug\GalaSoft.MvvmLight.WP71.xml
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 422am - adding login page\311NYC\Bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 422am - adding login page\311NYC\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 422am - adding login page\311NYC\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 422am - adding login page\311NYC\Bin\Debug\Microsoft.Phone.Controls.Maps.xml
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 422am - adding login page\311NYC\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 422am - adding login page\311NYC\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 422am - adding login page\311NYC\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 422am - adding login page\311NYC\Bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 422am - adding login page\311NYC\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 422am - adding login page\311NYC\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 422am - adding login page\311NYC\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 422am - adding login page\311NYC\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 422am - adding login page\311NYC\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 422am - adding login page\311NYC\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 422am - adding login page\311NYC\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 422am - adding login page\311NYC\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 422am - adding login page\311NYC\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 422am - adding login page\311NYC\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 422am - adding login page\311NYC\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 422am - adding login page\311NYC\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 422am - adding login page\311NYC\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 422am - adding login page\311NYC\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 422am - adding login page\311NYC\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 422am - adding login page\311NYC\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 422am - adding login page\311NYC\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 422am - adding login page\311NYC\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 422am - adding login page\311NYC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 422am - adding login page\311NYC\obj\Debug\App.g.i.cs
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 422am - adding login page\311NYC\obj\Debug\AboutPage.g.i.cs
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 422am - adding login page\311NYC\obj\Debug\AddPicturePage.g.i.cs
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 422am - adding login page\311NYC\obj\Debug\ComplaintNotePage.g.i.cs
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 422am - adding login page\311NYC\obj\Debug\ComplaintSummaryPage.g.i.cs
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 422am - adding login page\311NYC\obj\Debug\Controls\LoadingBar.g.i.cs
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 422am - adding login page\311NYC\obj\Debug\DetailsPage.g.i.cs
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 422am - adding login page\311NYC\obj\Debug\MainPage.g.i.cs
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 422am - adding login page\311NYC\obj\Debug\Pages\LoginPage.g.i.cs
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 422am - adding login page\311NYC\obj\Debug\StatisticsPage.g.i.cs
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 422am - adding login page\311NYC\obj\Debug\ViewModels\AboutPage.g.i.cs
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 422am - adding login page\311NYC\obj\Debug\View\LocatePage.g.i.cs
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 422am - adding login page\311NYC\obj\Debug\View\SettingsPage.g.i.cs
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 422am - adding login page\311NYC\obj\Debug\WherePage.g.i.cs
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 422am - adding login page\311NYC\obj\Debug\311NYC.g.resources
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 422am - adding login page\311NYC\obj\Debug\311NYC.dll
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 422am - adding login page\311NYC\obj\Debug\311NYC.pdb
+C:\Users\Faisal Nahian\Desktop\311NYC - 2-1 422am - adding login page\311NYC\obj\Debug\XapCacheFile.xml
+C:\Users\Faisal Nahian\Desktop\311NYC v1.1 by Faisal Nahian\311NYC\Bin\Debug\ApplicationIcon.png
+C:\Users\Faisal Nahian\Desktop\311NYC v1.1 by Faisal Nahian\311NYC\Bin\Debug\Background.png
+C:\Users\Faisal Nahian\Desktop\311NYC v1.1 by Faisal Nahian\311NYC\Bin\Debug\Resources\WP7PiChartsFromDBSOUP.dll
+C:\Users\Faisal Nahian\Desktop\311NYC v1.1 by Faisal Nahian\311NYC\Bin\Debug\311NYC.dll
+C:\Users\Faisal Nahian\Desktop\311NYC v1.1 by Faisal Nahian\311NYC\Bin\Debug\311NYC.pdb
+C:\Users\Faisal Nahian\Desktop\311NYC v1.1 by Faisal Nahian\311NYC\Bin\Debug\AppManifest.xaml
+C:\Users\Faisal Nahian\Desktop\311NYC v1.1 by Faisal Nahian\311NYC\Bin\Debug\_311NYC.xap
+C:\Users\Faisal Nahian\Desktop\311NYC v1.1 by Faisal Nahian\311NYC\Bin\Debug\AmCharts.Windows.QuickCharts.WP.dll
+C:\Users\Faisal Nahian\Desktop\311NYC v1.1 by Faisal Nahian\311NYC\Bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Faisal Nahian\Desktop\311NYC v1.1 by Faisal Nahian\311NYC\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Faisal Nahian\Desktop\311NYC v1.1 by Faisal Nahian\311NYC\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Faisal Nahian\Desktop\311NYC v1.1 by Faisal Nahian\311NYC\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+C:\Users\Faisal Nahian\Desktop\311NYC v1.1 by Faisal Nahian\311NYC\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Faisal Nahian\Desktop\311NYC v1.1 by Faisal Nahian\311NYC\Bin\Debug\Phone.Identity.AccessControl.dll
+C:\Users\Faisal Nahian\Desktop\311NYC v1.1 by Faisal Nahian\311NYC\Bin\Debug\System.ServiceModel.Syndication.dll
+C:\Users\Faisal Nahian\Desktop\311NYC v1.1 by Faisal Nahian\311NYC\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Faisal Nahian\Desktop\311NYC v1.1 by Faisal Nahian\311NYC\Bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Faisal Nahian\Desktop\311NYC v1.1 by Faisal Nahian\311NYC\Bin\Debug\GalaSoft.MvvmLight.Extras.WP71.xml
+C:\Users\Faisal Nahian\Desktop\311NYC v1.1 by Faisal Nahian\311NYC\Bin\Debug\GalaSoft.MvvmLight.WP71.xml
+C:\Users\Faisal Nahian\Desktop\311NYC v1.1 by Faisal Nahian\311NYC\Bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\Faisal Nahian\Desktop\311NYC v1.1 by Faisal Nahian\311NYC\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Faisal Nahian\Desktop\311NYC v1.1 by Faisal Nahian\311NYC\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Faisal Nahian\Desktop\311NYC v1.1 by Faisal Nahian\311NYC\Bin\Debug\Microsoft.Phone.Controls.Maps.xml
+C:\Users\Faisal Nahian\Desktop\311NYC v1.1 by Faisal Nahian\311NYC\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\Faisal Nahian\Desktop\311NYC v1.1 by Faisal Nahian\311NYC\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\Faisal Nahian\Desktop\311NYC v1.1 by Faisal Nahian\311NYC\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Faisal Nahian\Desktop\311NYC v1.1 by Faisal Nahian\311NYC\Bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Faisal Nahian\Desktop\311NYC v1.1 by Faisal Nahian\311NYC\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Faisal Nahian\Desktop\311NYC v1.1 by Faisal Nahian\311NYC\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Faisal Nahian\Desktop\311NYC v1.1 by Faisal Nahian\311NYC\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Faisal Nahian\Desktop\311NYC v1.1 by Faisal Nahian\311NYC\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Faisal Nahian\Desktop\311NYC v1.1 by Faisal Nahian\311NYC\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Faisal Nahian\Desktop\311NYC v1.1 by Faisal Nahian\311NYC\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Faisal Nahian\Desktop\311NYC v1.1 by Faisal Nahian\311NYC\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Faisal Nahian\Desktop\311NYC v1.1 by Faisal Nahian\311NYC\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Faisal Nahian\Desktop\311NYC v1.1 by Faisal Nahian\311NYC\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Faisal Nahian\Desktop\311NYC v1.1 by Faisal Nahian\311NYC\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Faisal Nahian\Desktop\311NYC v1.1 by Faisal Nahian\311NYC\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Faisal Nahian\Desktop\311NYC v1.1 by Faisal Nahian\311NYC\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Faisal Nahian\Desktop\311NYC v1.1 by Faisal Nahian\311NYC\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Faisal Nahian\Desktop\311NYC v1.1 by Faisal Nahian\311NYC\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Faisal Nahian\Desktop\311NYC v1.1 by Faisal Nahian\311NYC\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Faisal Nahian\Desktop\311NYC v1.1 by Faisal Nahian\311NYC\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Faisal Nahian\Desktop\311NYC v1.1 by Faisal Nahian\311NYC\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Faisal Nahian\Desktop\311NYC v1.1 by Faisal Nahian\311NYC\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Faisal Nahian\Desktop\311NYC v1.1 by Faisal Nahian\311NYC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Faisal Nahian\Desktop\311NYC v1.1 by Faisal Nahian\311NYC\obj\Debug\311NYC.g.resources
+C:\Users\Faisal Nahian\Desktop\311NYC v1.1 by Faisal Nahian\311NYC\obj\Debug\311NYC.dll
+C:\Users\Faisal Nahian\Desktop\311NYC v1.1 by Faisal Nahian\311NYC\obj\Debug\311NYC.pdb
+C:\Users\Faisal Nahian\Desktop\311NYC v1.1 by Faisal Nahian\311NYC\obj\Debug\XapCacheFile.xml
+C:\Users\Faisal Nahian\Desktop\311NYC v1.1 by Faisal Nahian\311NYC\obj\Debug\App.g.i.cs
+C:\Users\Faisal Nahian\Desktop\311NYC v1.1 by Faisal Nahian\311NYC\obj\Debug\AboutPage.g.i.cs
+C:\Users\Faisal Nahian\Desktop\311NYC v1.1 by Faisal Nahian\311NYC\obj\Debug\AddPicturePage.g.i.cs
+C:\Users\Faisal Nahian\Desktop\311NYC v1.1 by Faisal Nahian\311NYC\obj\Debug\ComplaintNotePage.g.i.cs
+C:\Users\Faisal Nahian\Desktop\311NYC v1.1 by Faisal Nahian\311NYC\obj\Debug\ComplaintSummaryPage.g.i.cs
+C:\Users\Faisal Nahian\Desktop\311NYC v1.1 by Faisal Nahian\311NYC\obj\Debug\Controls\LoadingBar.g.i.cs
+C:\Users\Faisal Nahian\Desktop\311NYC v1.1 by Faisal Nahian\311NYC\obj\Debug\DetailsPage.g.i.cs
+C:\Users\Faisal Nahian\Desktop\311NYC v1.1 by Faisal Nahian\311NYC\obj\Debug\MainPage.g.i.cs
+C:\Users\Faisal Nahian\Desktop\311NYC v1.1 by Faisal Nahian\311NYC\obj\Debug\StatisticsPage.g.i.cs
+C:\Users\Faisal Nahian\Desktop\311NYC v1.1 by Faisal Nahian\311NYC\obj\Debug\ViewModels\AboutPage.g.i.cs
+C:\Users\Faisal Nahian\Desktop\311NYC v1.1 by Faisal Nahian\311NYC\obj\Debug\View\LocatePage.g.i.cs
+C:\Users\Faisal Nahian\Desktop\311NYC v1.1 by Faisal Nahian\311NYC\obj\Debug\View\SettingsPage.g.i.cs
+C:\Users\Faisal Nahian\Desktop\311NYC v1.1 by Faisal Nahian\311NYC\obj\Debug\WherePage.g.i.cs

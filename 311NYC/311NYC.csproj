@@ -1,0 +1,315 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{73AB69CA-F519-4ED0-9D78-BCF4BBCE55D3}</ProjectGuid>
+    <ProjectTypeGuids>{C089C8C0-30E0-4E22-80C0-CE093F111A43};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>_311NYC</RootNamespace>
+    <AssemblyName>311NYC</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <SilverlightVersion>$(TargetFrameworkVersion)</SilverlightVersion>
+    <TargetFrameworkProfile>WindowsPhone71</TargetFrameworkProfile>
+    <TargetFrameworkIdentifier>Silverlight</TargetFrameworkIdentifier>
+    <SilverlightApplication>true</SilverlightApplication>
+    <SupportedCultures>
+    </SupportedCultures>
+    <XapOutputs>true</XapOutputs>
+    <GenerateSilverlightManifest>true</GenerateSilverlightManifest>
+    <XapFilename>_311NYC.xap</XapFilename>
+    <SilverlightManifestTemplate>Properties\AppManifest.xml</SilverlightManifestTemplate>
+    <SilverlightAppEntry>_311NYC.App</SilverlightAppEntry>
+    <ValidateXaml>true</ValidateXaml>
+    <ThrowErrorsInValidation>true</ThrowErrorsInValidation>
+    <Utf8Output>true</Utf8Output>
+    <ExpressionBlendVersion>4.0.30816.0</ExpressionBlendVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Bin\Release</OutputPath>
+    <DefineConstants>TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AmCharts.Windows.QuickCharts.WP, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\amChartsQuickCharts.1.1\lib\sl3-wp\AmCharts.Windows.QuickCharts.WP.dll</HintPath>
+    </Reference>
+    <Reference Include="GalaSoft.MvvmLight.Extras.WP71, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="GalaSoft.MvvmLight.WP71, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="Hammock.WindowsPhone, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="ICSharpCode.SharpZipLib.WindowsPhone, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Expression.Drawing, Version=3.8.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Expression.Interactions, Version=3.8.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Phone" />
+    <Reference Include="Microsoft.Phone.Controls, Version=7.0.0.0, Culture=neutral, PublicKeyToken=24eec0d8c86cda1e, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Phone.Controls.Maps, Version=7.0.0.0, Culture=neutral, PublicKeyToken=24eec0d8c86cda1e, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Phone.Controls.Toolkit, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b772ad94eb9ca604, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Phone.Interop" />
+    <Reference Include="Microsoft.Xna.Framework" />
+    <Reference Include="Microsoft.Xna.Framework.Input.Touch" />
+    <Reference Include="Newtonsoft.Json.Silverlight, Version=3.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL" />
+    <Reference Include="Phone.Identity.AccessControl">
+      <HintPath>..\packages\Phone.Identity.AccessControl.1.0.2\lib\sl40-wp71\Phone.Identity.AccessControl.dll</HintPath>
+    </Reference>
+    <Reference Include="RedBit.WindowsPhone.Controls, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="System.ComponentModel.Composition, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="System.ComponentModel.Composition.Initialization, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="System.Device" />
+    <Reference Include="System.ServiceModel.Syndication">
+      <HintPath>..\..\..\Documents\Visual Studio 2010\Projects\311NYC - Phase8 1-22 245pm added twitter feed\311NYC\311NYC\Bin\Debug\System.ServiceModel.Syndication.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows" />
+    <Reference Include="system" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Net" />
+    <Reference Include="System.Windows.Interactivity, Version=3.8.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="System.Xml" />
+    <Reference Include="mscorlib.extensions" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutPage.xaml.cs">
+      <DependentUpon>AboutPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AddPicturePage.xaml.cs">
+      <DependentUpon>AddPicturePage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ComplaintNotePage.xaml.cs">
+      <DependentUpon>ComplaintNotePage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ComplaintSummaryPage.xaml.cs">
+      <DependentUpon>ComplaintSummaryPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\DraggablePushPin.cs" />
+    <Compile Include="Controls\LoadingBar.xaml.cs">
+      <DependentUpon>LoadingBar.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\PoiPushpin.cs" />
+    <Compile Include="Controls\RelativeAnimatingContentControl.cs" />
+    <Compile Include="Convertors\ThemedImageConverter.cs" />
+    <Compile Include="DataLoader\DataUploaderProxy.cs" />
+    <Compile Include="DataLoader\Delegates.cs" />
+    <Compile Include="DataLoader\IDataLoader.cs" />
+    <Compile Include="DataLoader\Social\SharedLandmarksDataLoader.cs" />
+    <Compile Include="DataLoader\VanGuide\VanGuideDataLoader.cs" />
+    <Compile Include="DataLoader\VanGuide\VanGuideRegions.cs" />
+    <Compile Include="DetailsPage.xaml.cs">
+      <DependentUpon>DetailsPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Helpers\ApplicationSettingKeys.cs" />
+    <Compile Include="Helpers\DataUploadResultsArgs.cs" />
+    <Compile Include="Helpers\EntityResultsArgs.cs" />
+    <Compile Include="Helpers\LocationHelper.cs" />
+    <Compile Include="Helpers\MapHelper.cs" />
+    <Compile Include="Helpers\NavigationHelper.cs" />
+    <Compile Include="Helpers\ResultsArgs.cs" />
+    <Compile Include="Helpers\Twitter\TwitterHelper.cs" />
+    <Compile Include="Helpers\Twitter\TwitterMessages.cs" />
+    <Compile Include="Helpers\Twitter\TwitterSettings.cs" />
+    <Compile Include="MainPage.xaml.cs">
+      <DependentUpon>MainPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Model\Comment.cs" />
+    <Compile Include="Model\MessageTokens.cs" />
+    <Compile Include="Model\PointGroup.cs" />
+    <Compile Include="Model\PointOfInterest.cs" />
+    <Compile Include="Model\RegionGroup.cs" />
+    <Compile Include="Model\SharedLandmark.cs" />
+    <Compile Include="Model\SharedLandmarkGroup.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StatisticsPage.xaml.cs">
+      <DependentUpon>StatisticsPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ViewModels\AboutPage.xaml.cs">
+      <DependentUpon>AboutPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ViewModels\FeaturedItemViewModel.cs" />
+    <Compile Include="ViewModels\FeaturedComplaints.cs" />
+    <Compile Include="ViewModel\AboutViewModel.cs" />
+    <Compile Include="ViewModel\DetailsViewModel.cs" />
+    <Compile Include="ViewModel\MainViewModel.cs" />
+    <Compile Include="ViewModel\SettingsViewModel.cs" />
+    <Compile Include="View\LocatePage.xaml.cs">
+      <DependentUpon>LocatePage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\LocatePage_BingMap.cs" />
+    <Compile Include="View\SettingsPage.xaml.cs">
+      <DependentUpon>SettingsPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="WherePage.xaml.cs">
+      <DependentUpon>WherePage.xaml</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </ApplicationDefinition>
+    <Page Include="AboutPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="AddPicturePage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ComplaintNotePage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ComplaintSummaryPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\LoadingBar.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="DetailsPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="MainPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Resources\AccessControlResources.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="SampleData\FeaturedComplaintsData.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="StatisticsPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ViewModels\AboutPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\LocatePage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="View\SettingsPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="WherePage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+    <None Include="Properties\AppManifest.xml" />
+    <None Include="Properties\WMAppManifest.xml">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ApplicationIcon.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Resource Include="Images\appbar.feature.search.rest.png" />
+    <Resource Include="SampleData\FeaturedComplaints_Files\appbar.city.png" />
+    <Resource Include="SampleData\FeaturedComplaints_Files\appbar.cone.png" />
+    <Resource Include="SampleData\FeaturedComplaints_Files\appbar.contrast.png" />
+    <Resource Include="SampleData\FeaturedComplaints_Files\appbar.next.rest.png" />
+    <Resource Include="SampleData\FeaturedComplaints_Files\image01.png" />
+    <Resource Include="SampleData\FeaturedComplaints_Files\image02.png" />
+    <Resource Include="SampleData\FeaturedComplaints_Files\image03.png" />
+    <Resource Include="SampleData\FeaturedComplaints_Files\image04.png" />
+    <Resource Include="SampleData\FeaturedComplaints_Files\image05.png" />
+    <Resource Include="SampleData\FeaturedComplaints_Files\PushpinBicycle.png" />
+    <Resource Include="SampleData\FeaturedComplaints_Files\PushpinCar.png" />
+    <Resource Include="PanoramaBackground.png" />
+    <Content Include="Images\appbar.add.rest.png" />
+    <Content Include="Images\appbar.back.rest.png" />
+    <Content Include="Images\appbar.check.rest.png" />
+    <Resource Include="Images\appbar.city.png" />
+    <Resource Include="Images\appbar.cone.png" />
+    <Resource Include="Images\appbar.contrast.png" />
+    <Resource Include="Images\appbar.delete.rest.png" />
+    <Content Include="Images\appbar.feature.camera.rest.png" />
+    <Content Include="Images\appbar.next.rest.png" />
+    <Resource Include="Images\appbar.weather.station.png" />
+    <Resource Include="Images\Arrow.png" />
+    <Resource Include="Images\basecircle.png" />
+    <Resource Include="Images\featured\311_text.jpg" />
+    <Resource Include="Images\featured\apple.png" />
+    <Resource Include="Images\featured\clock.jpg" />
+    <Resource Include="Images\featured\dot_logo.jpg" />
+    <Resource Include="Images\featured\free_nyc.png" />
+    <Resource Include="Images\featured\hope_2012.png" />
+    <Resource Include="Images\featured\nyc.png" />
+    <Resource Include="Images\featured\StreetClosures.png" />
+    <Resource Include="Images\featured\teenagers.png" />
+    <Content Include="Images\Locate.png" />
+    <Resource Include="Images\minus.png" />
+    <Resource Include="Images\NewMark.png" />
+    <Resource Include="Images\overflowdots.png" />
+    <Resource Include="Images\parent.png" />
+    <Content Include="Images\pin.png" />
+    <Resource Include="Images\PushpinBicycle.png" />
+    <Resource Include="Images\PushpinCar.png" />
+    <Resource Include="Images\PushpinHouse.png" />
+    <Resource Include="Images\questionmark.png" />
+    <Resource Include="Images\Settings.png" />
+    <Resource Include="Images\street-light.png" />
+    <Resource Include="Images\ZoomOut.png" />
+    <Resource Include="Images\LocatePlaces.png" />
+    <Resource Include="Images\statistics.png" />
+    <Resource Include="Images\events.png" />
+    <Content Include="Resources\Green Market Locations.xml" />
+    <Content Include="Resources\Map of Bathrooms.xml" />
+    <Content Include="Resources\Map of NYC Fire Houses.xml" />
+    <Content Include="Resources\parking_facilities.xml" />
+    <Content Include="Resources\WP7PiChartsFromDBSOUP.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SplashScreenImage.jpg" />
+    <Content Include="Background.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <DesignData Include="SampleData\SyndicationFeedSampleData.xaml">
+      <Generator>MSBuild:MarkupCompilePass1</Generator>
+    </DesignData>
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\Silverlight for Phone\$(TargetFrameworkVersion)\Microsoft.Silverlight.$(TargetFrameworkProfile).Overrides.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\Silverlight for Phone\$(TargetFrameworkVersion)\Microsoft.Silverlight.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ProjectExtensions />
+</Project>

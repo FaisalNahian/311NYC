@@ -1,0 +1,23 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="311NYC" EntryPointType="_311NYC.App" RuntimeVersion="4.7.50308.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="311NYC" Source="311NYC.dll" />
+    <AssemblyPart x:Name="AmCharts.Windows.QuickCharts.WP" Source="AmCharts.Windows.QuickCharts.WP.dll" />
+    <AssemblyPart x:Name="GalaSoft.MvvmLight.Extras.WP71" Source="GalaSoft.MvvmLight.Extras.WP71.dll" />
+    <AssemblyPart x:Name="GalaSoft.MvvmLight.WP71" Source="GalaSoft.MvvmLight.WP71.dll" />
+    <AssemblyPart x:Name="Hammock.WindowsPhone" Source="Hammock.WindowsPhone.dll" />
+    <AssemblyPart x:Name="ICSharpCode.SharpZipLib.WindowsPhone" Source="ICSharpCode.SharpZipLib.WindowsPhone.dll" />
+    <AssemblyPart x:Name="Microsoft.Expression.Drawing" Source="Microsoft.Expression.Drawing.dll" />
+    <AssemblyPart x:Name="Microsoft.Expression.Interactions" Source="Microsoft.Expression.Interactions.dll" />
+    <AssemblyPart x:Name="Microsoft.Phone.Controls" Source="Microsoft.Phone.Controls.dll" />
+    <AssemblyPart x:Name="Microsoft.Phone.Controls.Maps" Source="Microsoft.Phone.Controls.Maps.dll" />
+    <AssemblyPart x:Name="Microsoft.Phone.Controls.Toolkit" Source="Microsoft.Phone.Controls.Toolkit.dll" />
+    <AssemblyPart x:Name="Newtonsoft.Json.Silverlight" Source="Newtonsoft.Json.Silverlight.dll" />
+    <AssemblyPart x:Name="Phone.Identity.AccessControl" Source="Phone.Identity.AccessControl.dll" />
+    <AssemblyPart x:Name="RedBit.WindowsPhone.Controls" Source="RedBit.WindowsPhone.Controls.dll" />
+    <AssemblyPart x:Name="System.ComponentModel.Composition" Source="System.ComponentModel.Composition.dll" />
+    <AssemblyPart x:Name="System.ComponentModel.Composition.Initialization" Source="System.ComponentModel.Composition.Initialization.dll" />
+    <AssemblyPart x:Name="System.ServiceModel.Syndication" Source="System.ServiceModel.Syndication.dll" />
+    <AssemblyPart x:Name="System.Windows.Interactivity" Source="System.Windows.Interactivity.dll" />
+    <AssemblyPart x:Name="Microsoft.Practices.ServiceLocation" Source="Microsoft.Practices.ServiceLocation.dll" />
+  </Deployment.Parts>
+</Deployment>
